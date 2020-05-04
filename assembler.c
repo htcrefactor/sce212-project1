@@ -316,7 +316,7 @@ void print_bits() {
         } else if(inst[text->idx].type == 'I') {
             /* blank */
 
-        } else if(inst[text->idx].type == 'S') {
+        } else if(inst[text->idx].type == 'J') {
             /* blank */
 
         } else {
